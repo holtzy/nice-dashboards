@@ -8,6 +8,8 @@ Best Developer Blogs [link](https://bloggingfordevs.com/trends/)
 
 Interactive Map Corona Travelban [link](https://lnkd.in/d8snTXa)
 
+[numerro](https://www.numerro.io/?li_fat_id=d9e8d830-2dd4-4051-aa72-7b8a03ad0132)
+
 
 # Product homepage
 
