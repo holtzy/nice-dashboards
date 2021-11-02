@@ -28,3 +28,5 @@ Bicycle dark mode [link](https://public.tableau.com/app/profile/yvette/viz/MyBic
 [plausible.io](https://plausible.io/?utm_medium=social&utm_source=Twitter&utm_campaign=profile) - Google analytics alternative - 40k$ / month
 
 [followchain.org](https://www.followchain.org/) - Blog about social medias - ~1 million unique visitors, RPM of 18, 30k MRR from ads. Used https://www.mediavine.com/ for ads.
+
+[Leave me alone](https://leavemealone.app/) - Tool to unsubscribe to newsletter/promos - 1600$ MRR - use subscription for revenue.
