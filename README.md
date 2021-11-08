@@ -30,3 +30,5 @@ Bicycle dark mode [link](https://public.tableau.com/app/profile/yvette/viz/MyBic
 [followchain.org](https://www.followchain.org/) - Blog about social medias - ~1 million unique visitors, RPM of 18, 30k MRR from ads. Used https://www.mediavine.com/ for ads.
 
 [Leave me alone](https://leavemealone.app/) - Tool to unsubscribe to newsletter/promos - 1600$ MRR - use subscription for revenue.
+
+[Slip](https://www.slip.so/) - Tool to build programing course online
