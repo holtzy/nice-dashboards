@@ -19,6 +19,9 @@ Bicycle dark mode [link](https://public.tableau.com/app/profile/yvette/viz/MyBic
 
 [stitches](https://stitches.dev/)
 
+[Vercel](https://vercel.com/)
+
+
 # Entrepreneurs
 
 [testimonial.to](https://testimonial.to)
