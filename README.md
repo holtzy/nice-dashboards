@@ -39,3 +39,13 @@ Bicycle dark mode [link](https://public.tableau.com/app/profile/yvette/viz/MyBic
 [Leave me alone](https://leavemealone.app/) - Tool to unsubscribe to newsletter/promos - 1600$ MRR - use subscription for revenue.
 
 [Slip](https://www.slip.so/) - Tool to build programing course online
+
+
+# Successful online courses
+
+Josh Comeau
+
+[Miss Excel](https://miss-excel.thinkific.com/)
+
+[Three.js Journey](https://threejs-journey.com/)
+
