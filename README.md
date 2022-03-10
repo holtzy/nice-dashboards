@@ -25,6 +25,8 @@ Bicycle dark mode [link](https://public.tableau.com/app/profile/yvette/viz/MyBic
 
 [ultra](https://ultra.tf/)
 
+https://blog.maximeheckel.com/
+
 
 # Entrepreneurs
 
